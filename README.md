@@ -4,6 +4,12 @@ I am passionate about leveraging data to uncover insights and drive informed dec
 
 I am a critical thinker who enjoys solving complex problems and finding innovative solutions. 
 
+### Take a look at my Data Analyst portfolio [here](https://bit.ly/40NHQoZ)
+
+## Connect with me!
+* [LinkedIn](https://www.linkedin.com/in/rushali-jain-775593189/)
+
+
 
 <!---
 rushalijain06/rushalijain06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
