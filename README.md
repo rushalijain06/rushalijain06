@@ -4,8 +4,8 @@ I am passionate about leveraging data to uncover insights and drive informed dec
 
 I am a critical thinker who enjoys solving complex problems and finding innovative solutions. 
 
-### Take a look at my Data Analyst portfolio [here](https://bit.ly/434SMzd)
-### Take a look at my resume [here](https://resume.io/r/9N51JADWq)
+### Take a look at my Data Analyst portfolio [here](https://rushalijain.carrd.co/)
+### Take a look at my resume [here](https://docs.google.com/document/d/1uoBB7FKa9UNbDtZIwEJQ6T_2zHiHT0a7bTrL9yxpoeQ/edit)
 
 ## Connect with me!
 * [LinkedIn](https://www.linkedin.com/in/rushali-jain-775593189/)
